@@ -41,7 +41,7 @@ touch context1.txt
 ```
 Add content to `context1.txt`, for example:
 ```
-Bitcoin, 2009 yılında Satoshi Nakamoto tarafından oluşturulan ilk kripto para birimidir. Merkezi olmayan bir yapıya sahiptir ve blok zinciri teknolojisini kullanır.
+Bitcoin is the first cryptocurrency created by Satoshi Nakamoto in 2009. It is decentralized and uses blockchain technology.
 ```
 
 7. Create the main Go file:
